@@ -1,4 +1,6 @@
-## hi i am kaushik 😊
+# Hi i am Kaushik 😊
+This is my first git Repository
+
 
 <!--
 **Kaushikv-dev/Kaushikv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
